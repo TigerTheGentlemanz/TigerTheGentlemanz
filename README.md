@@ -39,4 +39,6 @@
 <p>Always not in the mood whenever I'm uncomfortable.</p>
 <p>Gets head dizzy.</p>
 <p>I usually don't like proshipper or darkshipper.</p>
+<p>I might bite you if I get angry.</p>
+<p>Head mood swings. (Not always.)</p>
 
