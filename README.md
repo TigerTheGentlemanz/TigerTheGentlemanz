@@ -48,3 +48,6 @@
 <div align="center">
 
 [♡My Huzbrand♡](https://github.com/WendigoTheWeirdo)
+<div align="center">
+
+<img width="736" height="736" alt="45241b0b8582e47ca1d3fa042672dd77" src="https://github.com/user-attachments/assets/304bf672-7ac3-4c67-905d-f844eaadeb88" />
