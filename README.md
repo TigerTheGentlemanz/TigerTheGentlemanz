@@ -31,7 +31,8 @@
 </div>
 </details>
 
-
+<div align="center">
+  
  # 🐯's Caution Facts.
 <details>
   <summary><ins>Caution.</ins></summary>
