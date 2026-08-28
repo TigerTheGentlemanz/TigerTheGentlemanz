@@ -47,4 +47,4 @@
 
 <div align="center">
 
-[♡ ︎My Huzbrand♡](https://github.com/WendigoTheWeirdo)
+[♡My Huzbrand♡](https://github.com/WendigoTheWeirdo)
